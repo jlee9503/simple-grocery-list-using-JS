@@ -1,0 +1,3 @@
+- This is a simple todo list for the purpose of practicing JavaScript
+- CSS file was given from external source
+- Only HTML and JavaScript file were modified
